@@ -1,0 +1,32 @@
+server:
+  port: 8761
+
+eureka:
+  instance:
+    hostname: localhost
+  client:
+    # 由于该应用为注册中心,所以设置为false,代表不向注册中心注册自己
+    registerWithEureka: true
+    # 由于注册中心的职责就是维护服务示例,它并不需要去检索服务,所以也设置为false
+    fetchRegistry: false
+    serviceUrl:
+      defaultZone: http://bachelordesign:admin12580@${eureka.instance.hostname}:${server.port}/eureka/
+
+
+
+spring:
+  security:
+#    basic:
+#      # 启用 security 权限控制  旧版
+#      enabled: true
+    user:
+      name: bachelordesign
+      password: admin12580
+  application:
+    name: eureka-service
+#  thymeleaf:
+#    perfix: classpath:/templates/
+#    suffix: .html
+#    mode: HTML5
+#    encoding: utf-8
+#    check-template-location: true
