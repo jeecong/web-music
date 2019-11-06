@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/eureka_service/src/main/java/com/wayne/eureka_service/EurekaServiceApplication.java" line="32" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="20a79659-db03-4d51-9fb1-4771d61cc406" name="Default Changelist" comment="" />
+    <list default="true" id="20a79659-db03-4d51-9fb1-4771d61cc406" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/account_service/target/" />
@@ -65,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/music_service/src/main/java/com/wayne/music_service/sys_const/RedisConst.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+            <state relative-caret-position="209">
+              <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
               <folding>
                 <element signature="e#574#575#0" expanded="true" />
                 <element signature="e#619#620#0" expanded="true" />
@@ -169,6 +172,9 @@
     <dirStrings>
       <dir>C:\Users\wayne\Desktop\bachelor degree design\mainProject</dir>
     </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -291,6 +297,7 @@
     <option name="width" value="1938" />
     <option name="height" value="1098" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <hideEmptyPackages ProjectPane="true" />
@@ -342,7 +349,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="G:/SDK" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573050780039" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1573050996671" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/comment_service" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -607,12 +614,20 @@
       <workItem from="1557633179351" duration="18262000" />
       <workItem from="1557709333741" duration="241000" />
       <workItem from="1558344316503" duration="7329000" />
-      <workItem from="1573050502426" duration="268000" />
+      <workItem from="1573050502426" duration="514000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1573050864654</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1573050864654</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="246563000" />
+    <option name="totallyTimeSpent" value="246809000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
@@ -654,6 +669,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -1110,8 +1129,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/music_service/src/main/java/com/wayne/music_service/sys_const/RedisConst.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        <state relative-caret-position="209">
+          <caret line="11" column="55" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
           <folding>
             <element signature="e#574#575#0" expanded="true" />
             <element signature="e#619#620#0" expanded="true" />
