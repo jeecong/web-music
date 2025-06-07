@@ -20,7 +20,7 @@
         <dependency>
             <groupId>com.fasterxml.jackson.core</groupId>
             <artifactId>jackson-core</artifactId>
-            <version>2.7.4</version>
+            <version>2.13.0</version>
         </dependency>
         <!-- jackson注解包，可选，提供注解功能 -->
         <dependency>
